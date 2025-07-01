@@ -64,6 +64,8 @@ I'm a *fullstack software engineer* passionate about building practical and scal
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-NelsonQUAN&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-NelsonQUAN&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NelsonQUAN&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
