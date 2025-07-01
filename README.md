@@ -56,7 +56,6 @@ I'm a *fullstack software engineer* passionate about building practical and scal
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-NelsonQUAN)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-quadri-911a91337/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nelson.ade.quadri)
-[![Personal Website](https://img.shields.io/badge/-Website-24292E?style=flat-square&logo=githubpages&logoColor=white)](https://yourwebsite.com)
 
 ---
 
